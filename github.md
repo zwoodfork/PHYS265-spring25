@@ -68,7 +68,8 @@ for power users with fast fingers.
    committed this change, for your future self and your collaborators.
    Go ahead and **commit to main** so it can be ready to push to github.
 
-7. You now will see an option to push this change via a blue button in the right pane.
+7. You now will see an option to push this change via a blue button in the right pane. **Push origin** it
+   will say. Go ahead and push this to github now.
 
 8. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
