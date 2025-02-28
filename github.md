@@ -71,15 +71,21 @@ for power users with fast fingers.
 7. You now will see an option to push this change via a blue button in the right pane. **Push origin** it
    will say. Go ahead and push this to github now.
 
-8. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
+8. For new files, for example in your Lab1 folder, the same story, except new files will have a green square with
+   a green + symbol inside.   Only add the files that your grader needs to see. All other files will stay private on
+   your laptop.
+
+9. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
    better examples online.
+
+
 
 ## Authentication (advanced)
 
 This applies to the web interface.
 
-As of January 2024 github will enforce 2FA (two-factor authentication). Although you will find
+As of January 2024 github enforces 2FA (two-factor authentication). Although you will find
 everything you need to know to work with github on their website, there are numerous
 web pages summarizing this. One example is on https://swcarpentry.github.io/git-novice/ which
 covers the all important
@@ -109,7 +115,7 @@ Settings -> SSH and GPG keys -> new SSH key
 
 https://github.com/settings/keys
 
-*There is more to come here how keys are generated with **ssh-keygen** and **ssh-copy-id**
+There should be more here on how keys are generated with **ssh-keygen** and **ssh-copy-id** 
 
 ## Class Repository
 
