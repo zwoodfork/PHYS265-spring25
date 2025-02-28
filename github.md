@@ -77,7 +77,7 @@ for power users with fast fingers.
 
 ## Authentication (advanced)
 
-This applies to the web interface
+This applies to the web interface.
 
 As of January 2024 github will enforce 2FA (two-factor authentication). Although you will find
 everything you need to know to work with github on their website, there are numerous
