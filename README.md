@@ -11,7 +11,7 @@ algebra. Extensive use of the numpy, matplotlib, and scipy packages.
 In this class we will also introduce git to submit the labs and
 final coding project.
 
-Book:  https://www.cambridge.org/core/books/learning-scientific-programming-with-python/DEFE574792AE43C8B9AD23C8C39AB87F
+Hill Book:  https://www.cambridge.org/core/books/learning-scientific-programming-with-python/DEFE574792AE43C8B9AD23C8C39AB87F
 
 ##  JupyterLab Desktop
 
