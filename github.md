@@ -3,7 +3,7 @@
 This document originates here: https://github.com/astroumd/PHYS265-spring25/blob/main/github.md
 
 [**git**](https://xkcd.com/1597/) is arguably the most common Version
-Control System (or CMS) on the market and very popular with Open Source
+Control System (VCS) on the market and very popular with Open Source
 Software. https://github.com is one of the [major
 contenders](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities),
 although gitlab and bitbucket offer competative interfaces to maintain
@@ -62,13 +62,12 @@ for power users with fast fingers.
 6. Look back in Github Desktop, you should see the NAME file changed.
    Modified files have an orange square with a circle in the middle.
    New files you created and will not be in github
-   will show up with the green + symbol to the right of the file in your left pane.
+   will show up with the green + symbol to the right of the file in your left pane. 
    
-   Fill out a small description in the bottom part. This is important to keep track of why/what you
-   committed this change.
-   You now will see an option to push this change to the origin. A blue button in the right pane.
-   Go ahead and commit this to github.
-
+   Fill out a small description in the bottom left part. This is important to keep track of why/what you
+   committed this change, for your future self and your collaborators.
+   You now will see an option to push this change via a blue button in the right pane.
+   Go ahead and commit this to github. 
 
 8. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
