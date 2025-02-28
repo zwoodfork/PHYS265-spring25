@@ -66,8 +66,9 @@ for power users with fast fingers.
    
    Fill out a small description in the bottom left part. This is important to keep track of why/what you
    committed this change, for your future self and your collaborators.
-   You now will see an option to push this change via a blue button in the right pane.
-   Go ahead and commit this to github. 
+   Go ahead and **commit to main** so it can be ready to push to github.
+
+7. You now will see an option to push this change via a blue button in the right pane.
 
 8. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
